@@ -1,0 +1,274 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-13 11:51+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cacheupdatewidget.cpp:53
+#, kde-format
+msgid "Cancel"
+msgstr "取消"
+
+#: cacheupdatewidget.cpp:98 UpgradeModel.cpp:415
+#, kde-format
+msgid "Download rate: %1/s"
+msgstr "下载速度: %1/s "
+
+#: cacheupdatewidget.cpp:111 UpgradeModel.cpp:426
+#, kde-format
+msgid "Unknown time remaining"
+msgstr "未知时间"
+
+#: cacheupdatewidget.cpp:113
+#, kde-format
+msgid "%1 remaining"
+msgstr "剩余 %1"
+
+#: cacheupdatewidget.cpp:128
+#, kde-format
+msgid "<b>Updating software sources</b>"
+msgstr "<b>正在更新软件资源</b>"
+
+#: cacheupdatewidget.cpp:130
+#, kde-format
+msgid "<b>Downloading Packages</b>"
+msgstr "<b>正在下载包资源</b>"
+
+#: main.cpp:56
+#, kde-format
+msgid "qaptupdator"
+msgstr ""
+
+#: main.cpp:56
+#, kde-format
+msgid "Touch-friendly settings application."
+msgstr ""
+
+#: main.cpp:57
+#, kde-format
+msgid "Copyright 2011-2015, Sebastian Kügler"
+msgstr ""
+
+#: main.cpp:58
+#, kde-format
+msgid "Sebastian Kügler"
+msgstr ""
+
+#: main.cpp:58 main.cpp:59
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#: main.cpp:59
+#, kde-format
+msgid "Marco Martin"
+msgstr ""
+
+#: main.cpp:69
+#, kde-format
+msgid "system version"
+msgstr "系统版本"
+
+#: main.cpp:69
+#, kde-format
+msgid "sysversion"
+msgstr ""
+
+#: qapttest.cpp:84
+#, kde-format
+msgid "Show"
+msgstr "展示"
+
+#: qapttest.cpp:109
+#, kde-format
+msgid "Update Cache"
+msgstr "升级缓存"
+
+msgid "Upgrade"
+msgstr "升级"
+
+msgid "Update"
+msgstr "更新"
+
+#: qapttest.cpp:114
+#, kde-format
+msgid "Upgrade System"
+msgstr "更新系统"
+
+#: qapttest.cpp:142
+#, kde-format
+msgid "<b>Package:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:143
+#, kde-format
+msgid "<b>Section:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:144
+#, kde-format
+msgid "<b>Origin:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:146
+#, kde-format
+msgid "<b>Installed Size:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:147
+#, kde-format
+msgid "<b>Maintainer:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:148
+#, kde-format
+msgid "<b>Source package:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:149
+#, kde-format
+msgid "<b>Version:</b> %1"
+msgstr ""
+
+#: qapttest.cpp:151
+#, kde-format
+msgid "<b>Download size:</b> %1"
+msgstr "<b>下载大小:</b> %1"
+
+#: qapttest.cpp:152
+#, kde-format
+msgid "<b>Description:</b> %1"
+msgstr "<b>详情:</b> %1"
+
+#: qapttest.cpp:312
+#, kde-format
+msgid "%1 Installed, %2 upgradeable, %3 available"
+msgstr ""
+
+#: qapttest.cpp:317
+#, kde-format
+msgid "%1 To install, %2 to upgrade, %3 to remove"
+msgstr "%1 项需要安装 , %2 项需要升级 , %3 项需要删除"
+
+#: qml/update.qml:41
+#, kde-format
+msgid "Update completed \n The system has been updated to %1"
+msgstr "更新完成 \n 系统已经升级到 %1 版本"
+
+#: qml/update.qml:45
+#, kde-format
+msgid "Update failed \n The system update to %1 error"
+msgstr "更新 %1 版本出错"
+
+#: qml/update.qml:53
+#, kde-format
+msgid "Updating %1 current progress is %2%"
+msgstr "正在更新 %1 当前进度 %2%"
+
+#: qml/update.qml:253
+#, kde-format
+msgid "Restart now"
+msgstr "立即重启"
+
+#: qml/update.qml:265
+#, kde-format
+msgid "Restart later"
+msgstr "稍后重启"
+
+#: qml/update.qml:276
+#, kde-format
+msgid "I know"
+msgstr "知道了"
+
+#: UpgradeModel.cpp:270
+#, kde-format
+msgid "System Upgrade"
+msgstr "系统更新"
+
+msgid "Prepare all packages..."
+msgstr "正在准备更新包..."
+
+msgid "Software Update"
+msgstr "系统更新"
+
+msgid "System upgrade complete,please restart the device"
+msgstr "系统更新完成，请重启设备"
+
+msgid "Update log:"
+msgstr "更新日志："
+
+msgid "Before updating, please make sure your device is charged. During the updating process, please connect to the Internet throughout."
+msgstr "升级时请保持JingPad电量正常，网络连接正常。"
+
+#, kde-format
+msgid "An error was encountered while downloading packages"
+msgstr "下载安装包时失败"
+
+#, kde-format
+msgid "System %1 has been updated"
+msgstr "系统已更新到版本 %1"
+
+#, kde-format
+msgid "Cache could not be initialized"
+msgstr "缓存无法初始化"
+
+#, kde-format
+msgid "Package cache could not be locked"
+msgstr "无法锁定包缓存"
+
+#, kde-format
+msgid "There is not enough disk space for an install"
+msgstr "磁盘空间不足"
+
+#, kde-format
+msgid "Fetching packages failed"
+msgstr "获取包失败"
+
+#, kde-format
+msgid "Dpkg encounters an error during commit"
+msgstr "Dpkg错误（发生在提交时）"
+
+#, kde-format
+msgid "User has not given proper authentication"
+msgstr "用户没有给出正确的身份验证"
+
+#, kde-format
+msgid "Worker crashes or disappears"
+msgstr "更新程序崩溃"
+
+#, kde-format
+msgid "APT prevents the installation of untrusted packages"
+msgstr "APT已阻止安装不安全的包"
+
+#, kde-format
+msgid "APT configuration prevents downloads"
+msgstr "由于APT程序配置阻止下载"
+
+#, kde-format
+msgid "Selected package does not exist"
+msgstr "已选择安装的包不存在"
+
+#, kde-format
+msgid "A .deb package cannot be installed due to an arch mismatch"
+msgstr "安装包不能被安装（安装包架构不匹配）"
+
+#, kde-format
+msgid "Worker cannot mark packages without broken dependencies"
+msgstr "安装包不能被安装（依赖关系将会被破坏）"
+
+#, kde-format
+msgid "An invalid/unknown value"
+msgstr "未知错误"
